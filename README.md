@@ -1,8 +1,8 @@
 # T-FLIPFLOP-POSEDGE
 
-**NAME:NAVEEN KUMAR M**
+**NAME:Abhishek kannan  M**
 
-**REF NO:24900580**
+**REF NO:24901047**
 
 **AIM:**
 
@@ -33,7 +33,7 @@ From the above characteristic table, we can directly write the next state equati
 
 **PROGRAM**
 ```
-Developed by:NAVEENKUMAR M RegisterNumber: 24900580
+Developed by:Abhishek kannan M RegisterNumber: 24901047
 ```
 T Flipflop
 ```
